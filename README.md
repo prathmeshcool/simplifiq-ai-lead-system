@@ -74,7 +74,7 @@ reflection.txt
 ## 1. Clone Repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/prathmeshcool/simplifiq-ai-lead-system
 ```
 
 ---
@@ -188,13 +188,11 @@ to improve maintainability and scalability.
 ## Generated Audit Overview
 ![Audit Overview](./screenshots/audit-top.png)
 
-## Generated Audit Details
 ![Audit Details](./screenshots/audit-bottom.png)
 
 ## PDF Report Overview
 ![PDF Report Overview](./screenshots/pdf-top.png)
 
-## PDF Report Details
 ![PDF Report Details](./screenshots/pdf-bottom.png)
 
 ## Email Delivery
