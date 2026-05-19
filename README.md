@@ -187,12 +187,10 @@ to improve maintainability and scalability.
 
 ## Generated Audit Overview
 ![Audit Overview](./screenshots/audit-top.png)
-
 ![Audit Details](./screenshots/audit-bottom.png)
 
 ## PDF Report Overview
 ![PDF Report Overview](./screenshots/pdf-top.png)
-
 ![PDF Report Details](./screenshots/pdf-bottom.png)
 
 ## Email Delivery
