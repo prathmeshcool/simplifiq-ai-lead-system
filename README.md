@@ -186,8 +186,13 @@ to improve maintainability and scalability.
 ![Lead Form](./screenshots/form.png)
 
 ## Generated Audit Overview
+
+### Audit Top
 ![Audit Overview](./screenshots/audit-top.png)
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="./screenshots/audit-bottom.png" width="600"/>
+<br>
+### Audit Bottom
+![Audit Details](./screenshots/audit-bottom.png)
+
 
 ## PDF Report Overview
 ![PDF Report Overview](./screenshots/pdf-top.png)
