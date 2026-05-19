@@ -194,7 +194,8 @@ to improve maintainability and scalability.
 <br>
 
 ### Audit Bottom
-![Audit Details](./screenshots/audit-bottom.png)
+<img src="./screenshots/audit-bottom.png" alt="Audit Details" style="margin-left: 25px;">
+
 
 
 ## PDF Report Overview
