@@ -197,6 +197,9 @@ to improve maintainability and scalability.
 <img src="./screenshots/audit-bottom.png" alt="Audit Details" style="margin-left: 25px;">
 
 
+<br>
+<br>
+<br>
 
 ## PDF Report Overview
 ![PDF Report Overview](./screenshots/pdf-top.png)
