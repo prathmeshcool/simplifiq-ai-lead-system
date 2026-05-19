@@ -187,7 +187,9 @@ to improve maintainability and scalability.
 
 ## Generated Audit Overview
 ![Audit Overview](./screenshots/audit-top.png)
-     ![Audit Details](./screenshots/audit-bottom.png)
+ <p align="center">
+  <img src="./screenshots/audit-bottom.png" width="700"/>
+</p>
 
 ## PDF Report Overview
 ![PDF Report Overview](./screenshots/pdf-top.png)
